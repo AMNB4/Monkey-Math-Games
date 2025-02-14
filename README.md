@@ -1,5 +1,5 @@
 # Boredom Arcade
-
+Credits to the original owner only changed the name bc i was bored
 Welcome to Boredom Arcade, your go-to website for unblocked games!
 
 ## Deployment
